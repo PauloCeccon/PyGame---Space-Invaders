@@ -1,4 +1,4 @@
-#Space Pauloids
+# Space Pauloids
 
 ## Imports
 - PyGame
