@@ -4,6 +4,6 @@
 - PyGame
 - Random
 
-## Based on Atari Asterois
+## Based on Atari Asteroids
 
 ![](docs/SpaceGame.gif)
